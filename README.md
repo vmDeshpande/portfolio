@@ -25,6 +25,6 @@ This is my personal portfolio website built using React.js. It showcases my proj
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
+![Screenshot 1](readme-img.png)
 
 Feel free to explore and use it as a template for your own portfolio!
