@@ -27,8 +27,4 @@ This is my personal portfolio website built using React.js. It showcases my proj
 
 ![Screenshot 1](screenshot1.png)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 Feel free to explore and use it as a template for your own portfolio!
