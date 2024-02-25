@@ -17,8 +17,8 @@ This is my personal portfolio website built using React.js. It showcases my proj
 
 ## How to Run
 
-1. Clone the repository: `git clone https://github.com/your-username/your-portfolio.git`
-2. Navigate to the project directory: `cd your-portfolio`
+1. Clone the repository: `git clone https://github.com/vmDeshpande/portfolio`
+2. Navigate to the project directory: `cd portfolio`
 3. Install dependencies: `npm install`
 4. Run the application: `npm start`
 5. Open your browser and go to `http://localhost:3000`
